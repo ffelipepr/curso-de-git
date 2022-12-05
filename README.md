@@ -43,4 +43,8 @@
     $ git push -u origin main
 ```
 
+<<<<<<< HEAD
 Aiaiaiaiaia
+=======
+Qualquer coisa aqui
+>>>>>>> 109536e93205515a8dd97e76412a6d3a6825a92e
